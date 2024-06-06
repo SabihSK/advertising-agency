@@ -1,4 +1,4 @@
-# Location Viewer Flutter App
+# Advertising Agency Flutter App
 
 This Flutter application fetches location data from an API and displays it in a styled list. The application handles loading indicators, error handling, and uses a custom card design for each location.
 
